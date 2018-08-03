@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/afeldman/js_robot/issues"
   },
-  "homepage": "https://github.com/afeldman/js_robot#readme"
+  "homepage": "https://github.com/afeldman/js_robot#readme",
+  "dependencies": {
+    "jasmine-node": "^1.15.0"
+  }
 }
