@@ -1,0 +1,23 @@
+{
+  "name": "js_robot",
+  "version": "0.1.0",
+  "description": "A small robot information library. Roboter provides assets and this projects makes it handy to use the information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/afeldman/js_robot.git"
+  },
+  "keywords": [
+    "robot",
+    "asset"
+  ],
+  "author": "anton feldmann <anton.feldmann@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afeldman/js_robot/issues"
+  },
+  "homepage": "https://github.com/afeldman/js_robot#readme"
+}
